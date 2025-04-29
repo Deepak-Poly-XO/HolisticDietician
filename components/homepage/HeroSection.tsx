@@ -2,8 +2,8 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div className="bg-[#F3FFD5]">
-      <div className="z-0 h-screen text-black flex justify-center items-center px-4 sm:px-0">
+    <div className="bg-home">
+      <div className="z-0 h-screen text-black flex justify-center items-center px-4 sm:px-0 border ">
         <div className="text-center">
           
           {/* Heading */}
