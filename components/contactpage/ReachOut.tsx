@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Navbar from "@/components/common/Navbar";
 
 export default function ReachOut() {
   return (
@@ -21,7 +19,7 @@ export default function ReachOut() {
             style={{ fontFamily: "Spectral, serif" }}
             className="text-lg sm:text-xl "
           >
-            I'm happy to chat and answer any questions you have.
+            I&#39;m happy to chat and answer any questions you have.
           </p>
           <a
             href="tel:+17808506993"
@@ -44,7 +42,7 @@ export default function ReachOut() {
             style={{ fontFamily: "Spectral, serif" }}
             className="text-lg sm:text-xl "
           >
-            Send a message and I'll get back to you soon.
+            Send a message and I&#39;ll get back to you soon.
           </p>
           <a
             href="mailto:Contacturvashi1@gmail.com"

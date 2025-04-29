@@ -22,7 +22,7 @@ export default function DropSection() {
           style={{ fontFamily: "spectral, serif" }}
           className="text-sm sm:text-base md:text-lg leading-relaxed w-full sm:w-[90%]"
         >
-          Support your body’s natural healing, manage health challenges, and build lasting vitality with personalized nutrition guidance. Whether you're seeking healthy weight changes, metabolic balance, digestive support, or recovery nourishment, we'll create a plan that's thoughtfully designed for your unique journey.
+          Support your body&#39;s natural healing, manage health challenges, and build lasting vitality with personalized nutrition guidance. Whether you&#39;re seeking healthy weight changes, metabolic balance, digestive support, or recovery nourishment, we&#39;ll create a plan that&#39;s thoughtfully designed for your unique journey.
         </p>
 
         {/* Button */}

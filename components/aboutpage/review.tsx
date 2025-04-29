@@ -34,7 +34,7 @@ export default function ReviewSection() {
           >
             I was close to 72kg, never liked to weigh myself. I lost 9kg since
             following your diet. My husband also lost 11kg after following
-            Urvashi mam's diet. We both feel confident now. Thank you so much
+            Urvashi mam&#39;s diet. We both feel confident now. Thank you so much
             Urvashi mam.
           </p>
 

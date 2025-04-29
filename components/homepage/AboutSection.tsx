@@ -18,9 +18,9 @@ export default function AboutSection() {
             style={{ fontFamily: "Spectral, serif" }}
             className="text-[16px] sm:text-[18px] leading-relaxed max-w-[600px]"
           >
-            I’m Urvashi, a certified dietitian dedicated to guiding you toward a balanced and healthy lifestyle. <br /><br />
+            I&#39;m Urvashi, a certified dietitian dedicated to guiding you toward a balanced and healthy lifestyle. <br /><br />
             I offer tailored nutrition plans, fitness routines, and support for stress, sleep, and habit formation. <br /><br />
-            Whether you're managing weight, training for sports, or navigating pregnancy, I’ve got you covered — online or in-person.
+            Whether you&#39;re managing weight, training for sports, or navigating pregnancy, I&#39;ve got you covered — online or in-person.
           </p>
           <Link
             href="/about"

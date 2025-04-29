@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import Navbar from "@/components/common/Navbar";
 import Hero from "@/components/aboutpage/Hero";
 import Drop from "@/components/aboutpage/DropSection";

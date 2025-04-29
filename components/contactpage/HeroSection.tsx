@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Navbar from "@/components/common/Navbar";
 
 export default function HeroSection() {
   return (
@@ -17,16 +15,9 @@ export default function HeroSection() {
             className="text-xl sm:text-2xl md:text-3xl"
             style={{ fontFamily: "Playfair Display, serif" }}
           >
-            Let's talk about your journey
+            Let&#39;s talk about your journey
           </h2>
         </div>
-
-        {/* Optional Scroll Arrow */}
-        {/* <div className="mt-10">
-          <Link href="#reachout">
-            <img src="/down-arrow.png" alt="Go Down" className="w-10 sm:w-12" />
-          </Link>
-        </div> */}
       </div>
     </div>
   );

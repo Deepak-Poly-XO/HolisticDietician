@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Navbar from "@/components/common/Navbar";
 
 export default function Drop() {
   return (
